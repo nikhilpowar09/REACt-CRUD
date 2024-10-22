@@ -1,4 +1,3 @@
-// src/components/TaskItem.js
 import React, { useState } from 'react';
 
 const TaskItem = ({ task, updateTask, deleteTask }) => {
